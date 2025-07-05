@@ -42,9 +42,13 @@ main {
     margin: 0px auto;
     padding: 10px;
     margin-bottom: 300px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.322);
 
 }
 
+main > article {
+    margin: 20px 0px;
+}
 
 main > article > p {
     line-height: 2em;

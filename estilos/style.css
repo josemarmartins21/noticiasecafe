@@ -44,6 +44,11 @@ main {
 
 }
 
+ul > li {
+    list-style: none;
+        
+}
+
 footer {
     background-color: darkblue;
 }

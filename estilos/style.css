@@ -56,7 +56,7 @@ main > article {
 }
 
 main > article > p {
-    line-height: 2em;
+    line-height: 28px;
     text-align: justify;
     text-indent: 2.2em;
 }

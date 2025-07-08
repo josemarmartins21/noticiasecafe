@@ -79,12 +79,17 @@ ul {
 
 footer {
     background-color: var(--font-footer);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 3px;
     
 }
 
 footer > p {
     text-align: center;
     color: white;
+    font-size: .8em;
+
 }
 
 footer > p > a {
@@ -111,5 +116,10 @@ footer > p > a {
     main > article > p {
         text-align: left;
         text-indent: 0px;
+    }
+
+    img {
+        max-width: 340px;
+        
     }
 }
